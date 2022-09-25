@@ -4,3 +4,4 @@ This repository contains my portfolio of data science experience completed by me
 
 ## Curriculum
 1. Mastering Data Processing with Python
+2. Python Understanding Exploratory Data Analysis
