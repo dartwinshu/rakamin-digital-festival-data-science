@@ -8,7 +8,7 @@ This repository contains my portfolio of data science experience completed by me
 3. Introduction to Machine Learning
 4. Python Understanding Exploratory Data Analysis
 5. Career Preparation Understanding Career Shifting The Opportunity and Consequences
-6. Data Cleansing for Machine Learning
+*Plus Data Cleansing for Machine Learning
 
 ## Homework
 Analyze the Behavior of Loan Property Customers
