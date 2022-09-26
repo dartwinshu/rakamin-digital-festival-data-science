@@ -6,3 +6,9 @@ This repository contains my portfolio of data science experience completed by me
 1. Mastering Data Processing with Python
 2. Python Understanding Exploratory Data Analysis
 3. Data Cleansing for Machine Learning
+
+## Homework
+1. Customer Loan
+
+Homework File Link:
+[Homework Rakamin Trial Class.pdf](https://github.com/dartwinshu/rakamin-digital-festival-data-science/files/9644830/Homework.Rakamin.Trial.Class.pdf)
