@@ -12,9 +12,7 @@ This repository contains my portfolio of data science experience completed by me
 
 ## Homework
 Analyze the Behavior of Loan Property Customers
-
-Homework Question Link:
+- Question Link:
 [Homework Rakamin Trial Class.pdf](https://github.com/dartwinshu/rakamin-digital-festival-data-science/files/9644830/Homework.Rakamin.Trial.Class.pdf)
-
-Homework Result Link:
+- Result Link:
 [Analyze the Behavior of Loan Property Customers_Dartwin (RDF - Data Science).pdf](https://github.com/dartwinshu/rakamin-digital-festival-data-science/files/9646902/Analyze.the.Behavior.of.Loan.Property.Customers_Dartwin.RDF.-.Data.Science.pdf)
