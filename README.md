@@ -8,7 +8,7 @@ This repository contains my portfolio of data science experience completed by me
 3. Data Cleansing for Machine Learning
 
 ## Homework
-1. Analyze the behavior of loan property customers
+1. Analyze the Behavior of Loan Property Customers
 
 Homework File Link:
 [Homework Rakamin Trial Class.pdf](https://github.com/dartwinshu/rakamin-digital-festival-data-science/files/9644830/Homework.Rakamin.Trial.Class.pdf)
